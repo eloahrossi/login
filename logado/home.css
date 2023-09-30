@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(to bottom, #000000, #ffffff) no-repeat;
+    width: 95vw;
+    height: 98vh;
+   display: flex;
+   justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.all{
+    font-family: monospace;
+    text-align: center;
+    color: #ffffff;
+}
+.caixa{
+    margin-left: 20px;
+    width: 400px;
+    height: 150px;
+    border-radius: 18px;
+    background-color: rgb(37, 37, 37);
+}
+.chuuya{
+    width: 400px;
+    bottom: 0;
+    right: 205px;
+    position:absolute;
+}
+button{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+    margin-top: 10px;
+    font-family: monospace;
+}
